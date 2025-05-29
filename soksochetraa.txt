@@ -1,0 +1,8 @@
+soksochetra@DESKTOP-BBAULK0:~$ cat soksochetraa.txt
+expense
+laravel
+pavsingsung
+SokSochetraa
+thirtyjavascriptproject
+unix
+WCT-II
